@@ -37,7 +37,7 @@ cd path/to/bot
 nano .env
 ```
 
-Add your Telegram token, OpenAI API key and desired password and save it ```CTRL + X``` and ```Y``` keeping the same file name
+Add your Telegram token, OpenAI API key and desired password. Save it ```CTRL + X``` and ```Y``` keeping the same file name
 ```
 TELEGRAM_API_TOKEN=Your_Telegram_API_Token
 OPENAI_API_KEY=Your_OpenAI_API_Key
