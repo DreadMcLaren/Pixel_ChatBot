@@ -32,7 +32,7 @@ git clone https://github.com/DreadMcLaren/Pixel_Chatbot.git
 cd path/to/bot
 ```
 
-7. Open the ```.env``` file and edit the required information
+7. Open the ```.env``` file
 ```
 nano .env
 ```
