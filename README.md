@@ -63,7 +63,7 @@ Example:
 --------------------------------------------
 **OPTIONAL:**
 
-If you want to run the bot detached from the main console window, use Screen.
+You can run the bot in a detatch state using Screen.
 
 ```
 cd path/to/bot
