@@ -14,7 +14,7 @@ import base64
 load_dotenv()
 
 # Set up logging
-log_file = "dreadgpt.log"
+log_file = "Pixelchatbot.log"
 logging.basicConfig(level=logging.INFO, filename=log_file, filemode="w", format="%(asctime)s - %(name)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
