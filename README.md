@@ -1,6 +1,6 @@
 # Installation Instructions
 
-**NOTE:** This install guide was created using linux Ubunutu and assumes you've already gathered your telegram token and openai api key.
+**NOTE:** This install guide was created using linux Ubuntu and assumes you've already gathered your telegram token and openai api key.
 
 1. SSH into server
 ```
